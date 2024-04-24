@@ -37,6 +37,7 @@ function CustomerDetails() {
                             <td>Hello</td>
                             <td>Hello</td>
                             <td>Hello</td>
+                            <td>Hello</td>
                             <td>
                                 <button id="edit">EDIT</button> <button id="delete">DELETE</button>
                             </td>
