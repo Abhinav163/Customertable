@@ -20,11 +20,12 @@ function CustomerDetails() {
                     <thead>
                         <tr>
                             <th>User Id</th>
-                            <th>Date/Time</th>
-                            <th>Name</th>
+                            <th>Full Name</th>
+                            <th>Company Name</th>
                             <th>Email Address</th>
-                            <th>Contact Person</th>
-                            <th>Mobile</th>
+                            <th>Password</th>
+                            <th>Date</th>
+                            <th>Location</th>
                             <th id="action">Action</th>
                         </tr>
                     </thead>
